@@ -4,13 +4,13 @@ A simple Python application for managing user accounts with SQLite3 as the datab
 
 Features:
 
-Create Accounts: Allows you to add new users with personal details.
+> View Accounts: List all user accounts stored in the SQLite database.
 
-Update Accounts: Modify existing user information.
+> Create Accounts: Allows you to add new users with personal details.
 
-Delete Accounts: Remove user accounts from the database.
+> Update Accounts: Modify existing user information.
 
-View Accounts: List all user accounts stored in the SQLite database.
+> Delete Accounts: Remove user accounts from the database.
 
 SQLite3 Database: Uses a lightweight SQLite3 database to store user data securely.
 
