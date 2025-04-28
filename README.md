@@ -1,8 +1,8 @@
-📂 Account Manager
+📂 **Account Manager**
 
 A simple Python application for managing user accounts with SQLite3 as the database. This app allows you to create, update, delete, and view user accounts, making it a lightweight solution for managing personal or small-scale account data.
 
-Features:
+**Features:**
 
 > View Accounts: List all user accounts stored in the SQLite database.
 
@@ -13,4 +13,8 @@ Features:
 > Delete Accounts: Remove user accounts from the database.
 
 > SQLite3 Database: Uses a lightweight SQLite3 database to store user data securely.
+
+![Account Manager Screenshot](images/image.png)
+
+
 
