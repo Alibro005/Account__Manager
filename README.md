@@ -12,5 +12,5 @@ Features:
 
 > Delete Accounts: Remove user accounts from the database.
 
-SQLite3 Database: Uses a lightweight SQLite3 database to store user data securely.
+> SQLite3 Database: Uses a lightweight SQLite3 database to store user data securely.
 
